@@ -1,0 +1,5 @@
+group,building_type,n,share
+Bottom 100,classroom,25,0.25
+Bottom 100,dorm,75,0.75
+Top 100,gym,35,0.35
+Top 100,office,65,0.65
